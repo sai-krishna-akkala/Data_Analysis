@@ -8,7 +8,7 @@ To analyze pizza sales data and create an interactive dashboard that provides ac
 
 Dataset Name: Pizza Sales Data
 
-Source: Provided via Google [Access the dataset on Google Drive](https://drive.google.com/file/d/1NxMRVsnPLtBh0LVHCAT4X9ZpD0Z1iKvh/view?usp=drive_link)
+Source: Provided via Google Drive [Access the dataset on Google Drive](https://drive.google.com/file/d/1NxMRVsnPLtBh0LVHCAT4X9ZpD0Z1iKvh/view?usp=drive_link)
 
 ## ❓ KEY BUSINESS QUESTIONS ADDRESSED
 
