@@ -54,8 +54,8 @@ Database Management
 
 T-SQL Scripts for Data Preparation and Analysis
 
-[view Dashboard screenshot](https://drive.google.com/file/d/1nlWCX9n4dpP8cGHGs12Z4Lc5TVeXQyHj/view?usp=drive_link)
+[view Dashboard screenshot](https://drive.google.com/file/d/1uiwPo_bRT3p7lENZ6hB6HIDL8iQZuL90/view?usp=drive_link)
 
-[View Live Dashboard](https://1drv.ms/x/c/DE6A8EDBAE260C4F/EQViZ1iJcRhOgssRSSHMvq4BIUFAPbDGLZhOrFhsB-AhTg?e=rRn9s0) 
+[View Live Dashboard](https://1drv.ms/x/c/DE6A8EDBAE260C4F/ESanN-0YKnFBkSdBlyuLhAwBmv9LXulciZikrahIDkIqSg?e=lNmm9D) 
 
 
